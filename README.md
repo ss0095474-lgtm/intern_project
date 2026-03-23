@@ -1,16 +1,51 @@
-# React + Vite
+# 📊 Interactive Data Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, component-based web application that allows users to browse, search, and explore items from a public API. This project was built as part of a Frontend Developer Internship assignment to demonstrate practical skills in modern frontend development.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+👉 [Live Application](https://intern-project-seven-alpha.vercel.app/)  
+👉 [GitHub Repository](https://github.com/ss0095474-lgtm/intern_project)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Search Functionality**  
+  Real-time filtering of items based on user input.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+- 📦 **Dynamic Data Fetching**  
+  Fetches and displays data from a public API.
+
+- 🧩 **Component-Based Architecture**  
+  Modular and reusable components for scalability and maintainability.
+
+- ⏳ **Loading State Handling**  
+  User-friendly loading indicators while fetching data.
+
+- ⚠️ **Error Handling**  
+  Displays meaningful error messages when API requests fail.
+
+- 📱 **Fully Responsive Design**  
+  Optimized for mobile, tablet, and desktop devices.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework:** React.js
+- **Styling:** Tailwind CSS 
+- **Language:** JavaScript (ES6+)
+- **API:**  Fake store api
+- **Version Control:** Git & GitHub
+- **Deployment:** Vercel 
+
+---
+
+## 📡 API Used
+
+**Name:** Fake store api  
+
+Thank you
